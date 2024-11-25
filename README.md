@@ -45,6 +45,4 @@ If you get stuck, try searching for your questions in the format:
 - *"How to do XYZ with Scikit-Learn?"*  
 Where XYZ is the function or technique you're trying to implement.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
